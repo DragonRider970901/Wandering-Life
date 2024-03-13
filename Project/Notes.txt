@@ -1,0 +1,9 @@
+_____________________________________________________________________________________________________________________________________________
+_____________________________________________________________________________________________________________________________________________
+Date: 2024-03-13
+Author: Inana Susa
+
+
+1. The Project folder contains all page skelletons and sketches, design files (except logos, icons etc. that will be used in the page itself).
+and the Notes.txt file where I will write all necessary information so it will be easier for future team members to catch up and understand
+the structure of the website and its dynamics.
